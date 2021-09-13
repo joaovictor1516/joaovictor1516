@@ -1,0 +1,4 @@
+- 👋 Olá, sou João Victor Campos;
+- 🤓 Estou estudando HTML, CSS e JS;
+- 👨‍🎓 Estou no 8º semestre de Engenharia da Computação;
+- 📫 Meu e-mail é voliveira.joao30@sempreceub.com;
