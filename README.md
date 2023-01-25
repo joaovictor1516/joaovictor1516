@@ -1,4 +1,4 @@
-<h2 align="left">Olá me chamo João Victor tenho 26 anos e sou programador front-end júnior, estou no último semestre de engenharia da computação.</h2>
+<h2 align="left">Olá me chamo João Victor tenho 26 anos e sou programador front-end júnior, estou no último semestre de engenharia da computação. O meu e-mail é voliveira.joao30@sempreceub.com.</h2>
 
 ###
 
@@ -22,19 +22,16 @@
 
 ###
 
-<div align="center">
+<div align="center" text-decoration="none">
   <a href="https://www.linkedin.com/in/joao-victor-campos-souza-oliveira" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
-
-  <a href="voliveira.joao30@sempreceub.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-</a>
   
  <a href="https://www.hackerrank.com/voliveira_joao30" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"/>
- </a>
-  <a href="https://codepen.io/joaovictor1516" target="_blank">
+  </a>
+ 
+  <a href="https://codepen.io/joaovictor1516" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"/>
-</a>
+  </a>
 </div>
