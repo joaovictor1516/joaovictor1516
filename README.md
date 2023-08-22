@@ -1,4 +1,4 @@
-<h2 align="left">Olá me chamo João Victor tenho 26 anos e sou programador front-end júnior, estou no último semestre de engenharia da computação. O meu e-mail é voliveira.joao30@sempreceub.com.</h2>
+<h2 align="left">Olá me chamo João Victor tenho 27 anos e sou programador front-end júnior, do formado em engenharia da computação pela faculdade CEUB de Brasília. O meu e-mail é voliveira.joao30@sempreceub.com.</h2>
 
 ###
 
