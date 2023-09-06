@@ -1,4 +1,4 @@
-<h2 align="left">Olá me chamo João Victor tenho 27 anos e sou programador front-end júnior, do formado em engenharia da computação pela faculdade CEUB de Brasília. O meu e-mail é voliveira.joao30@sempreceub.com.</h2>
+<h1 align="left">Olá me chamo João Victor tenho 27 anos e sou programador fullstack web júnior, sou formado em engenharia da computação pela faculdade CEUB de Brasília. O meu e-mail é voliveira.joao30@sempreceub.com.</h1>
 
 ###
 
@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"/>
 
