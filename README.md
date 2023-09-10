@@ -34,12 +34,13 @@
   </a>
  
   <a href="https://codepen.io/joaovictor1516" target="_blank"  text-decoration="none">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"/>
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"/>
   </a>
 </div>
 
 ###
 
 <div align="center">
-  https://github-readme-stats.vercel.app/api?username={joaovictor1516}&theme=blue-green
+<img src="https://github-readme-stats.vercel.app/api?username=joaovictor1516&show_icons=true&theme=dark" height="180em" alt="analitics do meu github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor1516&hide_progress=false&theme=dark" height="180em" alt="linguagens que eu uso"/>
 </div>
