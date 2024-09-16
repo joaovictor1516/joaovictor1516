@@ -36,4 +36,6 @@
   <a href="https://codepen.io/joaovictor1516" target="_blank"  text-decoration="none">
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"/>
   </a>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictor1516&show_icons=true&theme=transparent)
 </div>
