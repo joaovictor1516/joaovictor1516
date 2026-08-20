@@ -21,7 +21,7 @@ joao@dev:~$ echo $STATUS
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,jest,py,html,css,postgres,mysql,git"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,jest,py,html,css,postgres,git"/>
 </p>
 
 <br>
