@@ -8,7 +8,13 @@ joao@dev:~$ cat sobre_mim.txt
 > 30 anos | Full Stack Developer | Brasília, DF
 > Engenharia da Computação pela CEUB
 > Stack: JavaScript, TypeScript, React.JS, Node.JS, Python
-> Foco atual: Desenvolvimento WEB + dados aplicados a segurança + GenAI
+> Foco atual: Desenvolvimento Web + dados aplicados à segurança + GenAI
+
+joao@dev:~$ cat atualmente_estudando.txt
+> Python & Data Science
+> Machine Learning
+> Generative AI
+> Cybersecurity
 
 joao@dev:~$ echo $STATUS
 "Buscando novas oportunidades e projetos open source pra contribuir 🚀"
@@ -30,15 +36,15 @@ joao@dev:~$ echo $STATUS
 
 ```
 ├── 🔐 projeto_deteccao_anomalias_transacoes_financeiras
-│     Criação de uma IA para detecção de possíveis golpes financeiros, para servir como plano de fundo para o estudo das diferenças entre o modelo Random Forest e o Logistic Regression, com dados balanceados e desbalanceados.
+│     Criação de uma IA para detecção de possíveis golpes financeiros, para servir como plano de fundo para o estudo das diferenças entre o modelo Random Forest e Logistic Regression, com dados balanceados e desbalanceados.
 │     stack: Python
 │
 ├── 🪐 space_quiz
-│     Quiz sobre o espaço, feito para estudar React Native
+│     Quiz sobre astronomia desenvolvido com React Native.
 │     stack: TypeScript
 │
 ├── 📖 diciotech
-│     Dicionário tech com termos explicados de forma acessível
+│     Dicionário tech com termos explicados de forma acessível.
 │     stack: JavaScript
 │
 └── 🗂️ plann.er
@@ -61,7 +67,7 @@ joao@dev:~$ echo $STATUS
 ## 🔗 connect --all
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joao-victor-campos-souza-oliveira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/voliveira_joao30"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="mailto:voliveira.joao30@sempreceub.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
