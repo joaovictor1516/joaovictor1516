@@ -6,9 +6,9 @@ João Victor Campos Souza Oliveira
 
 joao@dev:~$ cat sobre_mim.txt
 > 30 anos | Full Stack Developer | Brasília, DF
-> Engenharia da Computação — CEUB
-> Stack: JavaScript, TypeScript, React, Python
-> Foco atual: dados aplicados a segurança + GenAI
+> Engenharia da Computação pela CEUB
+> Stack: JavaScript, TypeScript, React.JS, Node.JS, Python
+> Foco atual: Desenvolvimento WEB + dados aplicados a segurança + GenAI
 
 joao@dev:~$ echo $STATUS
 "Buscando novas oportunidades e projetos open source pra contribuir 🚀"
@@ -30,7 +30,7 @@ joao@dev:~$ echo $STATUS
 
 ```
 ├── 🔐 projeto_deteccao_anomalias_transacoes_financeiras
-│     Criação de uma IA para detecção de possíveis golpes financeiro, para servir como plano de fundo para o estudo das diferenças entre o modelo Random Forest e o Logistic Regression, com dados balanceados e desbalanceados.
+│     Criação de uma IA para detecção de possíveis golpes financeiros, para servir como plano de fundo para o estudo das diferenças entre o modelo Random Forest e o Logistic Regression, com dados balanceados e desbalanceados.
 │     stack: Python
 │
 ├── 🪐 space_quiz
@@ -42,7 +42,7 @@ joao@dev:~$ echo $STATUS
 │     stack: JavaScript
 │
 └── 🗂️ plann.er
-      O plann.er é uma aplicação para marcar viagens com os amigos e tanto criar quanto compartilhar o cronograma das atividades.
+      O plann.er é uma aplicação para marcar viagens com os amigos e poder criar quanto compartilhar o cronograma das atividades.
       stack: TypeScript
 ```
 
@@ -68,7 +68,7 @@ joao@dev:~$ echo $STATUS
 
 <br>
 
-<div align="center">
+<div align="left">
 
 ```bash
 joao@dev:~$ git commit -m "aberto a colaborações open source em JS/TS/Python"
