@@ -42,7 +42,7 @@ joao@dev:~$ echo $STATUS
 │     stack: JavaScript
 │
 └── 🗂️ plann.er
-      O plann.er é uma aplicação para marcar viagens com os amigos e poder criar quanto compartilhar o cronograma das atividades.
+      O plann.er é uma aplicação para marcar viagens e poder criar e compartilhar o cronograma das atividades com os amigos.
       stack: TypeScript
 ```
 
