@@ -27,6 +27,11 @@
 </div>
 
 ###
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovictor1516&theme=dracula&animation=load&exclude=exclude.svg)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovictor1516&theme=dracula&animation=load&exclude=exclude.svg)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaovictor1516&theme=dracula&animation=load&exclude=exclude.svg)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaovictor1516&theme=dracula&animation=load&exclude=exclude.svg)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaovictor1516&theme=dracula&animation=load&exclude=exclude.svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joao-victor-campos-souza-oliveira" target="_blank" text-decoration="none">
