@@ -58,8 +58,8 @@ joao@dev:~$ echo $STATUS
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaovictor1516&theme=github_dark&animation=load" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovictor1516&theme=github_dark&animation=load" height="165">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictor1516&theme=github-compact" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaovictor1516&theme=github_dark&animation=load" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaovictor1516&theme=github_dark&animation=load" width="100%"/>
 </div>
 
 <br>
